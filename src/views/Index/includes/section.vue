@@ -8,7 +8,7 @@
             width: 292.86px;
             height: 148.68px; margin-top: 54px; position: relative;" class="d-flex justify-content-center
             align-items-center mx-auto">
-            <img src="./assets/img/plus.png" alt="" style="width: 58px; height: 58px;" class="img-fluid">
+            <img src="@/assets/plus.png" alt="" style="width: 58px; height: 58px;" class="img-fluid">
                 <h3 style="color: #FFFFFF; font-weight: 700; font-size: 24px" class="mx-2">CREATE</h3>
 
             </div>
@@ -20,7 +20,7 @@
             width: 292.86px;
             height: 148.68px; margin-top: 54px; position: relative;" class="d-flex justify-content-center
             align-items-center mx-auto">
-                <img src="./assets/img/layers.png" alt="" style="width: 58px; height: 58px;">
+                <img src="@/assets/layers.png" alt="" style="width: 58px; height: 58px;">
                 <h3 style="color: #FFFFFF; font-weight: 700; font-size: 24px" class="mx-3">LIBRARY</h3>
             </div>
         </div>
@@ -31,7 +31,7 @@
             width: 292.86px;
             height: 148.68px; margin-top: 54px; position: relative;" class="d-flex justify-content-center
             align-items-center mx-auto">
-                <img src="./assets/img/settings.png" alt="" style="width: 58px; height: 58px;">
+                <img src="@/assets/settings.png" alt="" style="width: 58px; height: 58px;">
                 <h3 style="color: #FFFFFF; font-weight: 700; font-size: 24px" class="mx-3">SETTINGS</h3>
             </div>
         </div>
